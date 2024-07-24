@@ -16,9 +16,6 @@ const createIPFS = async () => {
   const libp2p = await createLibp2p(defaults);
   const helia = await createHelia({ libp2p });
 
-  console.info("Helia is running");
-  console.info("PeerId:", helia.libp2p.peerId.toString());
-
   return helia
 };
 
