@@ -1,6 +1,7 @@
 {
   "name": "heliacn",
   "type": "module",
+  "description": "helia with auto cn avaliable bootstrap",
   "version": "0.0.1",
   "main": "dist/index.cjs",
   "types": "dist/index.d.ts",
