@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@libp2p/bootstrap": "^10.1.4",
-    "helia": "^4.2.5",
+    "helia": "^5.0.0",
     "ky": "^1.5.0",
     "libp2p": "^1.8.3"
   },
