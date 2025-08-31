@@ -10,7 +10,7 @@
     "build": "tsup"
   },
   "dependencies": {
-    "@libp2p/bootstrap": "^10.1.4",
+    "@libp2p/bootstrap": "^11.0.0",
     "helia": "^4.2.5",
     "ky": "^1.5.0",
     "libp2p": "^1.8.3"
